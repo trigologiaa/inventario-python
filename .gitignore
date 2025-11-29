@@ -1,0 +1,32 @@
+# Base de datos
+*.db
+*.sqlite3
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Logs
+*.log
+
+# Configuración de IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Distribución
+build/
+dist/
+*.egg-info/
